@@ -19,7 +19,6 @@ import com.foresee.mobile.api.utils.ObjectUtil;
 
 /**
  * 
- * @author Tim
  *
  */
 @SuppressWarnings({ "unchecked" })
