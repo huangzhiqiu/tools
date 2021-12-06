@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 /**
  * redis 服务
- * @author Tim
  *
  */
 public interface IRedisService {
